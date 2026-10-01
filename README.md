@@ -1,5 +1,5 @@
 # Retail-Fashion-Data-Analysis
-Retail Fashion Data Analysis and Sales Dashboard using Microsoft Excel, Power Query, Power Pivot, and DAX.
+Retail Fashion Data Analysis using Microsoft Excel, Power Query, Power Pivot, and DAX.
 
 ## Project Overview
 This project focuses on analyzing Retail Fashion Data using Microsoft Excel to transform raw sales data into meaningful business insights.
